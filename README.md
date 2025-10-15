@@ -5,7 +5,7 @@ Dataset used:
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
 Late Delivery Risk Prediction with Machine Learning Project:
-https://github.com/PolinaBurova/Predicting-Delivery-Delays-in-Supply-Chain
+https://github.com/katikalavijaykumar/Supply-Chain-Performance-Dashboard-main.git
 
 
 ## Overview
@@ -16,7 +16,7 @@ This Power BI dashboard provides insights into the performance of a supply chain
 
 ## Page 1: **Delivery Performance Dashboard**
 
-![Delivery Performance](https://github.com/PolinaBurova/Supply-Chain-Performance-Dashboard/blob/main/Delivery%20Performance.png)
+![Delivery Performance](https://github.com/katikalavijaykumar/Supply-Chain-Performance-Dashboard-main/blob/main/Delivery%20Performance.png)
 
 ### Key Visuals:
 
@@ -44,7 +44,7 @@ This Power BI dashboard provides insights into the performance of a supply chain
 
 ## Page 2: **Sales Performance Dashboard**
 
-![Sales Performance](https://github.com/PolinaBurova/Supply-Chain-Performance-Dashboard/blob/main/Sales%20and%20Customers.png)
+![Sales Performance](https://github.com/katikalavijaykumar/Supply-Chain-Performance-Dashboard-main/blob/main/Sales%20and%20Customers.png)
 
 ### Key Visuals:
 
